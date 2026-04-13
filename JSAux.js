@@ -1,0 +1,1 @@
+document.querySelectorAll(".cpd-catalog-product-card-slot")[23].querySelector(".cpd-stock-shipping-module__available-container").innerHTML
